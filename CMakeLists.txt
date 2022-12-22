@@ -3,4 +3,4 @@ project(ncctraining)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(ncctraining forloopA.c)
+add_executable(ncctraining forloopSpelling.c)
